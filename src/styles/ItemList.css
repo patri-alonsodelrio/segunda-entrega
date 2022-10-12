@@ -1,0 +1,10 @@
+.container-wid {
+    max-width: 1360px;
+    margin: 0 auto; }
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3rem;
+    text-transform: uppercase;
+    margin: 1rem; }
